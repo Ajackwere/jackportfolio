@@ -12,13 +12,13 @@ import Image10 from "../../assets/Project10.jpg";
 
 const data = [
   {
-    id: 7,
+    id: 1,
     category: "frontend",
-    image: Image1,
-    title: "Doghouses (Frontend)",
-    desc: "This web app connects pet owners with doghouses that they can rent or buy for their dogs.This was not my solo project, I did it alongside two other developers and my contribution is availble on the Github link",
-    demo: "https://paws-and-places.onrender.com/",
-    github: "https://github.com/kimaniMbatiaMoringa/Paws-and-Places",
+    image: Image10,
+    title: "School Website App(frontend)",
+    desc: "A school portfolio website with About, Home, Course, Blog, and Contact sections.",
+    demo: "https://pentagon-beige.vercel.app/courses",
+    github: "https://github.com/Ajackwere/pentagon",
   },
   {
     id: 2,
@@ -66,13 +66,13 @@ const data = [
     github: "https://github.com/Ajackwere/AustineWere",
   },
   {
-    id: 10,
-    category: "backend",
-    image: Image7,
-    title: "Pizza Restaurant (Backend)",
-    desc: "This backend project showcases a many-to-many and one-to-many model relationships. Built using flask and postgresql, clone the repo and run the project locally.",
-    demo: "https://github.com/Ajackwere/PizzaRestaurants",
-    github: "https://github.com/Ajackwere/PizzaRestaurants",
+    id: 7,
+    category: "frontend",
+    image: Image1,
+    title: "Doghouses (Frontend)",
+    desc: "This web app connects pet owners with doghouses that they can rent or buy for their dogs.This was not my solo project, I did it alongside two other developers and my contribution is availble on the Github link",
+    demo: "https://paws-and-places.onrender.com/",
+    github: "https://github.com/kimaniMbatiaMoringa/Paws-and-Places",
   },
   {
     id: 8,
@@ -93,13 +93,13 @@ const data = [
     github: "https://github.com/Ajackwere/Messaging_Web_App",
   },
   {
-    id: 1,
-    category: "frontend",
-    image: Image10,
-    title: "School Website App(frontend)",
-    desc: "A school portfolio website with About, Home, Course, Blog, and Contact sections.",
-    demo: "https://pentagon-beige.vercel.app/courses",
-    github: "https://github.com/Ajackwere/pentagon",
+    id: 10,
+    category: "backend",
+    image: Image7,
+    title: "Pizza Restaurant (Backend)",
+    desc: "This backend project showcases a many-to-many and one-to-many model relationships. Built using flask and postgresql, clone the repo and run the project locally.",
+    demo: "https://github.com/Ajackwere/PizzaRestaurants",
+    github: "https://github.com/Ajackwere/PizzaRestaurants",
   }
 ];
 
