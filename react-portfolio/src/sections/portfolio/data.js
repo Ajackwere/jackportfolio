@@ -7,10 +7,12 @@ import Image6 from "../../assets/Project6.jpg";
 import Image7 from "../../assets/Project7.jpg";
 import Image8 from "../../assets/Project8.jpg";
 import Image9 from "../../assets/Project9.jpg";
+import Image10 from "../../assets/Project10.jpg";
+
 
 const data = [
   {
-    id: 1,
+    id: 7,
     category: "frontend",
     image: Image1,
     title: "Doghouses (Frontend)",
@@ -64,7 +66,7 @@ const data = [
     github: "https://github.com/Ajackwere/AustineWere",
   },
   {
-    id: 7,
+    id: 10,
     category: "backend",
     image: Image7,
     title: "Pizza Restaurant (Backend)",
@@ -90,6 +92,15 @@ const data = [
     demo: "https://github.com/Ajackwere/Messaging_Web_App",
     github: "https://github.com/Ajackwere/Messaging_Web_App",
   },
+  {
+    id: 1,
+    category: "frontend",
+    image: Image10,
+    title: "School Website App(frontend)",
+    desc: "A school portfolio website with About, Home, Course, Blog, and Contact sections.",
+    demo: "https://pentagon-beige.vercel.app/courses",
+    github: "https://github.com/Ajackwere/pentagon",
+  }
 ];
 
 export default data;
