@@ -10,6 +10,7 @@ import Image9 from "../../assets/Project9.jpg";
 import Image10 from "../../assets/Project10.jpg";
 import Image11 from "../../assets/Project11.png";
 import Image12 from "../../assets/Project12.png";
+import Image13 from "../../assets/Project13.png";
 
 
 
@@ -121,6 +122,15 @@ const data = [
     desc: "I built the backend system for this blogsite using Django. The endpoints include user login, logout, profile page, blog CRUD, adverts CRUD, maintenance mode feature, admin portal, etc. Check the documentation .",
     demo: "https://linx-2rrj.onrender.com/swagger/",
     github: "https://github.com/Ajackwere/LinX/tree/main/server",
+  },
+  {
+    id: 13,
+    category: "backend",
+    image: Image13,
+    title: "Incident Report App (Backend)",
+    desc: "I built this micro system using Django. It allows users to login and make a report about water issue in kisumu county, such as leakage, disconnection, theft etc. Check the documentation .",
+    demo: "https://incident-reporting-nfmn.onrender.com/swagger/",
+    github: "https://github.com/Ajackwere/incident_reporting",
   }
 ];
 
