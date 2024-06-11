@@ -8,6 +8,7 @@ import Image7 from "../../assets/Project7.jpg";
 import Image8 from "../../assets/Project8.jpg";
 import Image9 from "../../assets/Project9.jpg";
 import Image10 from "../../assets/Project10.jpg";
+import Image11 from "../../assets/Project11.png";
 
 
 const data = [
@@ -100,6 +101,15 @@ const data = [
     desc: "This backend project showcases a many-to-many and one-to-many model relationships. Built using flask and postgresql, clone the repo and run the project locally.",
     demo: "https://github.com/Ajackwere/PizzaRestaurants",
     github: "https://github.com/Ajackwere/PizzaRestaurants",
+  },
+  {
+    id: 11,
+    category: "backend",
+    image: Image11,
+    title: "Kawebo Sacco (Backend)",
+    desc: "While this project has both backend and frontend completed, my work was on the backend operations, particularly managing the database, creating the financial overview routes, designing the member id generation feature to suit the client's demand, documenting the endpoints using swagger, creating superadmin permission routes and relationships, among many others. The System is built using Reactjs, Material UI, flask and postgresql.",
+    demo: "https://www.kawebo.or.ke/",
+    github: "https://github.com/Samsom-Muchiri/kawembo",
   }
 ];
 
