@@ -9,6 +9,8 @@ import Image8 from "../../assets/Project8.jpg";
 import Image9 from "../../assets/Project9.jpg";
 import Image10 from "../../assets/Project10.jpg";
 import Image11 from "../../assets/Project11.png";
+import Image12 from "../../assets/Project12.png";
+
 
 
 const data = [
@@ -110,6 +112,15 @@ const data = [
     desc: "While this project has both backend and frontend completed, my work was on the backend operations, particularly managing the database, creating the financial overview routes, designing the member id generation feature to suit the client's demand, documenting the endpoints using swagger, creating superadmin permission routes and relationships, among many others. The System is built using Reactjs, Material UI, flask and postgresql.",
     demo: "https://www.kawebo.or.ke/",
     github: "https://github.com/Samsom-Muchiri/kawembo",
+  },
+  {
+    id: 12,
+    category: "backend",
+    image: Image12,
+    title: "Linx Blogsite (Backend)",
+    desc: "I built the backend system for this blogsite using Django. The endpoints include user login, logout, profile page, blog CRUD, adverts CRUD, maintenance mode feature, admin portal, etc. Check the documentation .",
+    demo: "https://linx-2rrj.onrender.com/swagger/",
+    github: "https://github.com/Ajackwere/LinX/tree/main/server",
   }
 ];
 
