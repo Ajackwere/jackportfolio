@@ -119,7 +119,7 @@ const data = [
     category: "backend",
     image: Image12,
     title: "Linx Blogsite (Backend)",
-    desc: "I built the backend system for this blogsite using Django. The endpoints include user login, logout, profile page, blog CRUD, adverts CRUD, maintenance mode feature, admin portal, etc. Check the documentation .",
+    desc: "I built the backend system for this blogsite using Django. The features include user login, logout, and profile operations, blog creation and update, adverts creation, subscribers feature, maintenance mode feature, and admin portal. Check the documentation .",
     demo: "https://linx-2rrj.onrender.com/swagger/",
     github: "https://github.com/Ajackwere/LinX/tree/main/server",
   },
